@@ -1,4 +1,7 @@
-### 2025-09-02
+### 📊 2025-09-02
+
+---
+
 - Senin kmrn, dgn bursa AS libur Hari Buruh sehingga volume tipis, S&P 500 futures naik 0,18%, Dow Jones futures naik 0,07%, Nasdaq 100 futures naik 0,17%, rebound moderat dr aksi jual saham teknologi Jumat lalu. Pasar Eropa ditutup hijau, DAX 30 Jerman naik 0,57%, saham sektor militer memimpin, RENK naik >7%, Novo Nordisk naik nyaris 2%.
 - Indeks dolar sentuh level terendah 5 minggu, ETH sempat turun hampir 4%, token WLFI yg didukung keluarga Trump anjlok >30%. Logam mulia cemerlang, perak tembus USD 40/ons, emas cetak 5 kali kenaikan beruntun mendekati ATH, Brent futures sempat naik >1%. Pasar Eropa ditopang pemulihan permintaan dlm negeri serta rencana pasca konflik Ukraina. 
 
@@ -47,7 +50,10 @@ Hal ini pula yg membuat harga emas sempat menembus USD 3500/ons pd sesi perdagan
 Sama halnya spt saat kmrn setelah koreksi, saya udh info pd sesi pagi bhw EMTK berpotensi menjd peluang entry, & benar peluang tsb bs dimanfaatkan utk tetap meraih profit. Seiring dgn pendalaman pembelajaran diversifikasi investasi, kt akan bertahap membangun sistem trading sendiri. Dgn begitu, dlm praktek trading kt gk akan terlalu pasif, sebaliknya bs lbh terkontrol dlm mengelola risiko & tetap menjaga profitabilitas.
 - Jadi utk kondisi skrg, km semua gpp khawatir dgn risiko koreksi pasca IHSG cetak ATH, krn selama kt ikuti aliran dana bandar & menyesuaikan strategi, peluang profit kdpn tetap terbuka. Hal ini akan menjd dasar kuat utk membidik target return dobel pd paruh kedua thn, dgn resiko yg lbh terjaga. Oke, sesi sore ini saya akhiri dulu, kt lanjut lg malam nanti!
 
-### 2025-09-01
+### 📊 2025-09-01
+
+---
+
 - Pagi tmn2 investor, selamat pagi semua! 
 Terpengaruh pelemahan Wall Street hari Jumat, pagi ini mayoritas bursa Asia dibuka melemah. Sentimen soal potensi bubble saham teknologi AS ikut tekan indeks Jepang dan Korea. Menjelang akhir pekan, pasar keuangan global tampak kompleks, investor makin yakin akan pemangkasan suku bunga The Fed Sept, mencerminkan ekspektasi kuat thd kebijakan moneter longgar AS.
 
@@ -160,7 +166,10 @@ Harapannya, sharing ini bs bantu km makin mantap cari peluang profit dlm kondisi
 - Hal ini jelas tunjukkan masih ada kendala yg blm teratasi. Atas dasar tanggung jawab, saya akan terus arahkan & luruskan kesalahan tsb. Begitu pula, krn support besar dr km semua, saya merasa hrs lbh sungguh2 dlm berbagi pengetahuan & strategi. Dgn begitu, kt bs tumbuh bareng, saling menguatkan, & pada akhirnya sama2 nikmati hasil terbaik dr perjalanan investasi kt.
 - Oleh krn itu, tiap pekan saya akan sisihkan sebagian modal utk bikin sesi tanya jawab terkait materi yg udh saya bagikan. Harapannya km semua bs serius menjawab, krn saya akan kasih evaluasi & reward sesuai hasilnya. Tujuannya jelas: bantu tmn2 lbh cepat bangun sistem trading sendiri, shg profit di pasar kdpn bs makin stabil. Reward ini mungkin nominalnya kecil utk sebagian orang, tapi niat saya adl kasih apresiasi nyata utk yg benar2 support saya.
 
-### 2025-08-31
+### 📊 2025-08-31
+
+---
+
 - Byk tmn2 jg yg udh ngikutin saya berhasil dptin return investasi yg lumayan bagus. Krn di ajang ini, top 3 popularitas bs raih penghargaan investor paling berpengaruh di dunia. Juara 1 investor paling berpengaruh bakal dpt hadiah USD 10 juta, meski ttp gk bs samain dgn juara utama kompetisi yg hadiahnya USD 100 juta, tp tetap itu jumlah dana yg sgt besar. 
 
 Dan utk bs dptin juara utama, faktor popularitas jd bagian penting yg gk bs dilewatin. Selain itu, top 3 popularitas jg bakal dpt otorisasi dana trading sebesar USD 500 juta, yg bakal jd lompatan besar dlm karir investasi saya kdpn. Itu salah satu alasan knp saya mau share ini ke km semua.
@@ -239,7 +248,10 @@ Dgn sikap tanggung jawab terhadap km semua & sbg bentuk apresiasi atas support k
 
 Tujuan utamanya supaya kt smua lbh cepat bangun sistem trading masing2, dan dgn begitu profit kdpn bs makin stabil. Reward yg saya siapkan mungkin terkesan kecil utk sebagian tmn2, tp ini bentuk nyata apresiasi saya utk yg udh support & percaya.
 
-### 2025-08-29
+### 📊 2025-08-29
+
+---
+
 - 4Para tmn2 investor, selamat pagi semua!
 Kamis bursa AS naik krn PDB kuartal kedua direvisi naik & data tenaga kerja di atas ekspektasi, bikin sentimen euforia. S&P 500 tembus 6500 titik rekor baru, 3 indeks utama tutup hijau. S&P 500 naik 0,32% ke 6501,86, Dow Jones naik 0,16% ke 45636,90, Nasdaq naik 0,53% ke 21705,158. Indeks VIX turun 2,83% ke 14,43.
 - PDB riil AS kuartal kedua disesuaikan naik jd 3,3% (annualized qoq). Klaim pengangguran awal turun ke 229 rb, klaim lanjutan turun ke 1,954 jt, dua2nya di bwh ekspektasi, bikin investor pede, nutupin kekhawatiran soal jalur pemotongan suku bunga. Obligasi AS campuran, tenor panjang unggul dr pendek. Yield 2 tahun naik 1,6 bps ke 3,6351%, yield 10 tahun turun 2,52 bps ke 4,2091%.
@@ -351,7 +363,10 @@ Hal ini menyebabkan return keseluruhan saat ini tertinggal, menunjukkan bhw bbrp
 
 Tujuannya agar semua tmn lbh cepat membangun sistem trading sendiri dan di masa mendatang bs meraih profit yg lbh stabil. Tentu, jumlah reward ini mungkin terlihat kecil bagi sebagian tmn, tapi saya berharap melalui reward ini, tmn2 yg mendukung dan mempercayai saya bs mendptkan imbal balik nyata.
 
-### 2025-08-28
+### 📊 2025-08-28
+
+---
+
 - Para tmn2 investor, selamat pagi semua.
 Rabu pasar saham AS bergerak fluktuatif dlm suasana wait and see yg tegang. Tiga indeks utama sempat dibuka turun lalu naik, akhirnya ditutup hijau. S\&P 500 naik 0,24% ke 6481,40 poin cetak rekor baru, Dow Jones naik 0,32% ke 45565,23 poin, Nasdaq naik 0,21% ke 21590,14 poin.
 
@@ -473,7 +488,10 @@ CEO Fuld berkali2 minta bantuan pemerintah atau akuisisi, tapi gagal krn tekanan
 Misal, setelah Fed turunkan suku bunga September ini, klo saham turun terus, gmn kt menghadapinya? Inilah alasan penting belajar diversifikasi di level tinggi pasar. Selain itu, tmn2 bs kirim pertanyaan ke saya atau asisten, nanti akan saya jawab satu per satu. Tujuannya membantu tmn2 raih profit kdpn & memahami strategi investasi.
 - Namun, masih ada tmn2 yg salah pilih saham & memahami materi hanya setengah2, sehingga return tertinggal. Ini menunjukkan bbrp masalah di pasar keuangan belum terselesaikan. Dgn sikap bertanggung jawab & support tmn2 yg luar biasa, kt bs terus perbaiki strategi investasi & hasil di kdpn.
 
-### 2025-08-27
+### 📊 2025-08-27
+
+---
+
 - Tadi malam 3 indeks utama Wall Street ditutup menguat tipis di tengah volume transaksi yg sepi. Sentimen pasar msh hati2, investor menunggu rilis laporan keuangan Nvidia serta data inflasi AS. S&P 500 naik 0,41% ke 6465,94, Dow Jones naik 0,30% ke 45418,07, Nasdaq menguat 0,44% ke 21544,27. Indeks volatilitas VIX turun 0,88% ke 14,66.
 - Indeks 7 raksasa teknologi naik tipis 0,37%, Nvidia dan Tesla masing2 naik 1,09% & 1,46%. Sektor semikonduktor jg relatif solid, indeks Philadelphia Semiconductor menguat 0,90% ke 5807,922. Trump mendorong pemecatan anggota The Fed Lisa Cook, memicu kekhawatiran pasar soal independensi The Fed & risiko inflasi. DXY turun 0,4%, yield obligasi AS tenor pendek turun, tenor panjang malah naik, yield US Treasury 2 thn turun ±4,7 bps ke 3,67%.
 - Minat safe haven mendorong harga emas naik. Ethereum rebound >6%, sementara Bitcoin sempat tembus di bwh USD 109 rb lalu balik naik >USD 2 rb. Pasar msh menunggu konfirmasi pembentukan bottom. Trump menyebut tarif bea masuk furniture, saham RH jatuh >4%. Di Eropa, gejolak politik Prancis bikin CAC 40 turun nyaris 2%, selisih yield obligasi Prancis & Jerman naik ke level tertinggi dlm bbrp bulan terakhir.
@@ -588,7 +606,10 @@ Hasilnya jg mantep krn faktor fundamental: ekspansi besar AS ke data center plus
 
 Lewat pertanyaan tmn2, saya lihat byk yg serius belajar, jd arah investasinya makin jelas & pemahaman market makin tajam. Saya jg udh kasih koreksi utk bbrp masalah yg ditemuin tmn2. Dgn begitu kdpn profit trading bs lbh stabil & perlahan2 tiap orang bs bangun sistem trading sendiri.
 
-### 2025-08-26
+### 📊 2025-08-26
+
+---
+
 - Halo tmn2 investor, selamat pagi semua.
 Senin kmrn, pasar saham AS sempet sideways di awal sesi tapi sore lsg anjlok bikin volatilitas pasar global makin tinggi. S&P 500 turun 0,43% ke 6439,32 poin, Dow Jones turun 0,77% ke 45282,47 poin, Nasdaq turun 0,22% ke 21449,29 poin. Sentimen tertekan krn data penjualan rumah baru Juli turun 0,6% mom dan indeks aktivitas bisnis Fed Dallas Agustus yg lemah, bikin muncul kekhawatiran ekonomi.
 - Trump kembali tekankan bakal turunin harga obat secara drastis, bikin saham farmasi Merck turun lbh dari 2% dan seret Dow Jones. Sektor big tech 7 raksasa performanya lbh kuat dibanding komponen S&P lainnya, Tesla naik 1,94%, Nvidia naik 1,03%, tapi sektor biotech jatuh 1,98%.
@@ -706,7 +727,10 @@ Terkait koreksi pasar hari ini, skrg kt tetap observasi dulu, perhatikan reaksi 
 Namun ada bbrp tmn masih ulangi kesalahan dlm pemilihan saham, dan pemahaman ilmu yg dibagi masih setengah2, bikin overall return tertinggal. Ini menunjukkan bbrp masalah di pasar finansial belum terselesaikan. Dgn sikap bertanggung jawab, dan support tmn2 yg maksimal, kt bs perbaiki hal ini.
 - Oleh krn itu, setiap minggu saya akan sisihkan sebagian dana utk buat pertanyaan terkait ilmu yg udh saya bagikan, berharap tmn2 bs jawab dgn serius. Tentu saya jg akan beri penilaian dan reward sesuai. Tujuannya, semua tmn bs lbh cepat membangun sistem trading sendiri, sekaligus raih profit lbh stabil di pasar kedepan.
 
-### 2025-08-25
+### 📊 2025-08-25
+
+---
+
 - Para tmn2 investor, selamat pagi semua!
 Indeks saham AS melonjak signifikan setelah Ketua Federal Reserve Powell memberikan pidato di Jackson Hole, dgn Dow Jones mencatat rekor tertinggi. Powell dlm pidato kedelapan dan terakhirnya di Jackson Hole menyatakan bhw melemahnya pasar tenaga kerja mungkin perlu didukung dgn pemotongan suku bunga di Sept, sambil menilai inflasi akibat tarif hanya bersifat jangka pendek, bukan masalah berkelanjutan. Pernyataan ini mendorong kepercayaan pasar.
 - Dow Jones Industrial naik 846 poin ke 45.631,74, dipimpin saham teknologi, saham kecil, dan sektor sensitif suku bunga. Pasar kini memproyeksikan peluang pemotongan suku bunga 25 basis poin di September mencapai 95,2%. Namun, bank investasi Wall Street memperingatkan ini mungkin hanya “musim panas akhir” krn Sept dan Oktober biasanya bln dgn volatilitas tinggi. 
@@ -832,7 +856,10 @@ Dr pertanyaan2 yg masuk, saya lihat byk tmn yg emg serius belajar. Ini bikin say
 Akibatnya, return mereka keliatan ketinggalan. Itu tandanya problem yg mereka hadapi di market blm kelar dgn baik. Atas dasar tanggung jawab saya ke km semua, sekaligus apresiasi atas support km yg tanpa henti, saya akan terus bantu km beresin kendala ini biar hasil investasi km lbh konsisten kdpn.
 - Jd tiap minggu saya sisihin sebagian dana utk bikin pertanyaan seputar materi yg udh pernah saya share. Saya harap km semua bs serius jawab. Tentu saya jg bakal kasih evaluasi sekaligus reward. Tujuannya biar semua tmn bs lbh cepat bangun sistem trading sendiri, dan di market kdpn bs wujudkan profit yg lbh stabil.
 
-### 2025-08-24
+### 📊 2025-08-24
+
+---
+
 - Byk tmn2 jg udh ikut saya dpt imbal hasil investasi yg bagus, krn 3 besar terpopuler di lomba ini bs meraih penghargaan investor paling berpengaruh di dunia. Investor paling berpengaruh juara 1 akan dpt bonus USD 10 juta, walau gk sebesar hadiah juara 1 kompetisi yg capai USD 100 juta, tapi tetap jumlah dana yg sgt besar. 
 
 Dan utk meraih juara 1, popularitas adl bagian yg gk bs dipisahkan. Selain itu, 3 besar peringkat populer jg akan dpt mandat dana trading USD 500 juta yg pasti akan bawa lonjakan kualitas dlm perjalanan investasi saya kdpn. Inilah salah satu alasan knp saya mau berbagi dgn km semua.
@@ -920,7 +947,10 @@ Buat pertanyaan yg blm paham, saya pasti luangin wkt buat jelasin satu per satu.
 - Tapi tetap ada sebagian tmn yg dlm pemilihan saham msh sering ulangin kesalahan lama, serta penyerapan materi yg saya sharing msh setengah2. Akibatnya hasil trading mereka tertinggal cukup jauh. Itu artinya ada masalah yg blm benar2 diselesaikan dlm perjalanan investasi. Atas dasar rasa tanggung jawab & krn support penuh dr tmn2, saya bakal terus dampingin & bantu biar masalah2 ini bs dibereskan dgn tuntas.
 - Jd tiap minggu saya selalu sisihkan sebagian dana utk bikin sesi tanya jawab seputar materi yg udh saya sharing. Harapan saya tmn2 bs serius ngejawab, dan tentu saya bakal kasih penilaian serta reward. Tujuannya biar kt semua bs lbh cepat bangun trading system masing2, dan kdpn profit yg didpt bs makin stabil.
 
-### 2025-08-22
+### 📊 2025-08-22
+
+---
+
 - Para tmn2 investor, selamat pagi!
 Kamis lalu, tiga indeks utama saham AS pertama kali secara bersamaan ditutup melemah, menunjukkan sentimen safe-haven mendominasi pasar. Indeks S&P 500 turun 0,40% ke 6.370,17, mencatat penurunan lima hari berturut2 dan terkoreksi 1,51% dari rekor tertinggi 14 Agustus. 
 
@@ -1024,7 +1054,10 @@ Coba bayangin, klo Buffett, Graham, Peter Lynch gk ikut arah besar ekonomi dunia
 Pertanyaan2 yg muncul jg udh saya luangkan wkt utk jelaskan satu per satu. Harapan saya, jawaban dan penjelasan ini bs bantu km semua capai profit berkelanjutan di market. Yang penting, ilmu yg saya bagikan bnr2 km pelajari serius. Lewat pertanyaan kalian, saya jg liat byk yg memang sungguh2 terlibat dlm belajar, makin jelas arah investasinya, makin matang persepsi ttg market.
 - Maka dr itu tiap minggu saya selalu sisihkan sebagian dana utk bikin sesi tanya jawab seputar materi yg udh saya share. Harapannya, km bs serius jawab, krn saya pun akan kasih evaluasi sekaligus reward. Dgn begitu, semua tmn2 bs lbh cepat bangun sistem trading sendiri, dan kdpn profit bs makin stabil.
 
-### 2025-08-21
+### 📊 2025-08-21
+
+---
+
 - Selamat pagi semua investor. Rabu malam pasar saham AS sempat agak mereda dr aksi jual besar, tapi saham teknologi msh tertekan, bikin S&P500 turun 4 hari beruntun, ditutup -0,24% di level 6395,78. Nasdaq anjlok -0,67% ke 21172,857, sedangkan Dow Jones naik tipis +0,04% di 44938,31. Indeks VIX naik +0,83% ke 15,70, sempat sentuh 17,19, mencerminkan sikap hati2 investor. 
 
 Indeks Big Seven Tech turun -1,04% ke 184,94, Apple turun nyaris -2%. Saham semikonduktor jg loyo, SOX turun -0,72% ke 5630,819, TSMC ADR -1,76%, AMD -0,81%. Palantir sempat anjlok -9% intraday, akhirnya nutup -1,1%. Sektor healthcare & consumer staples naik >0,5%, nunjukin investor lari ke aset defensif.
@@ -1143,7 +1176,10 @@ Saya berharap km bs perlahan membangun sistem trading sendiri, mengikuti pola la
 Sebagai bentuk tanggung jawab thdp km semua yg sll support saya tanpa henti, saya akan terus berusaha memberi arahan & koreksi yg diperlukan. Tujuan saya sederhana: agar semua tmn2 bs belajar scr konsisten, membangun sistem trading sendiri, serta meraih profit stabil dlm market kdpn.
 - Krn itu, tiap minggu saya akan sisihkan sebagian dana utk memberikan pertanyaan seputar materi yg udh saya bagikan. Harapan saya, tmn2 bs serius menjawabnya. Tentu saya akan berikan penilaian & hadiah sebagai bentuk apresiasi. Dgn cara ini, semua tmn2 bs lebih cepat membangun sistem trading sendiri & meraih profit yg lebih stabil dlm market kdpn.
 
-### 2025-08-20
+### 📊 2025-08-20
+
+---
+
 - Pagi semua investor. Pasar AS Selasa kmrn keliatan terbelah. Sektor teknologi melemah berat dan bikin indeks utama jatuh. Nasdaq anjlok 1.46% ke 21314.952, jadi penurunan harian terbesar kedua sejak April. S\&P 500 turun 0.59% ke 6411.37, udh 3 hari berturut2 merah. Dow Jones malah sempet bikin rekor intraday, akhirnya ditutup naik tipis 0.02% ke 44922.27 berkat saham Home Depot. Dari big tech, Nvidia jatuh 3.5% jadi yang terparah 4 bulan terakhir, sementara Meta, Tesla, Amazon turun 1.42%-2.07%. Di chip sector, Intel naik 6.97% berkat kabar investasi SoftBank US\$2 M dan wacana pemerintah AS bakal pegang 10% saham. Tapi AMD, Arm, sama TSMC malah jeblok 3.6%-5.44%.
 - Sentimen global campur aduk. Ada kabar persiapan pertemuan pemimpin dunia buat dorong perdamaian Rusia-Ukraina, Budapest disebut jadi kandidat lokasi. Harga minyak global turun hampir 2% dan emas turun ke level terendah 2 minggu. Saham defense Eropa ikut anjlok, Leonardo minus 10%. Yield obligasi US turun utk pertama kali dlm 4 hari, sementara indeks dolar rebound 2 hari beruntun. Pasar kripto jg gonjang-ganjing, Bitcoin tembus dbwh US\$113k, Ethereum dua hari berturut2 turun lebih dari 6% intraday.
 - Seperti yg aku perkirakan, dana pensiun 401K masuk ke pasar pasti bikin ada fase koreksi dulu biar kasih level support lebih bagus utk entry. Karena 401K itu uang pensiun rakyat US, klo rugi besar bisa picu demo masal. Selain itu, turunnya saham teknologi bikin tekanan ke IHSG hari ini. Jadi setelah minggu lalu IHSG cetak ATH, pekan ini market Indo kemungkinan bakal jalan di fase konsolidasi dan lebih byk sideways.
@@ -1257,7 +1293,10 @@ Km yg rajin ikutin arahan, sedikit demi sedikit bs bangun trading system sendiri
 - Namun masih ada sebagian tmn2 yg suka ulangin kesalahan dlm stock picking, atau blm bnr2 pahami knowledge yg saya share. Akibatnya performa portfolio malah keteteran dibanding yg lain. Itu tandanya ada masalah trading yg blm terselesaikan dgn baik. Sebagai bentuk tanggung jawab saya, dan jg sbg balasan atas support km yg tulus, saya akan terus dampingin biar kt bs sama2 maju.
 - Maka dr itu, tiap minggu saya akan sisihkan sebagian dana utk bikin sesi tanya jawab seputar knowledge yg sblmnya udh saya share. Harapan saya, km bs serius jawab pertanyaan tsb. Tentunya saya jg bakal kasih evaluasi sekaligus reward. Dgn begitu, semua tmn2 bs lebih cepat bangun trading system masing2, dan kdpn bs capai profit yg lebih stabil di market.
 
-### 2025-08-19
+### 📊 2025-08-19
+
+---
+
 - Pasar saham AS bergerak tipis sebelum pertemuan tahunan bank sentral global di Jackson Hole. Dow Jones turun tipis 34,3 poin atau 0,08% ke 44.911,82. S&P 500 turun 0,01% ke 6.449,15, Nasdaq hentikan 2 hari turun berturut-turut dan naik 0,03% ke 21.629,774. Pasar fokus ke pertemuan Presiden AS Trump dgn Presiden Ukraina Zelensky di Gedung Putih. Keduanya awalnya tatap muka, lsg diikuti pemimpin Eropa utk pertemuan multilateral.
 - Pertemuan fokus ke pembicaraan AS-Rusia-Ukraina. Trump bilang AS akan kerja sama dgn Rusia & Ukraina serta kasi bantuan besar di bidang keamanan. Langkah selanjutnya siapkan pertemuan 3 pihak antara pemimpin AS, Rusia & Ukraina. Zelensky msh siap utk pertemuan 3 pihak, Kanselir Jerman Scholz berharap gencatan senjata. Tapi Trump bilang Rusia & Ukraina bs berunding sambil bertempur, gk perlu gencatan senjata dulu.
 - Selama pertemuan “Trump-Zelensky”, harga minyak internasional naik >1%, ketiga indeks saham AS bergerak tipis. Pasar nilai msh ada perbedaan signifikan antara Rusia & Ukraina. Masih ada kemungkinan AS kenakan sanksi ke Rusia atau tarif sekunder spt ke India. Meski kecil, tetap ada premi risiko geopolitik.
@@ -1372,7 +1411,10 @@ Kdpn jg saya bakal makin sering bahas soal diversifikasi portofolio, biar kt nge
 - p msh ada bbrp tmn yg dlm milih saham sering ulangi kesalahan lama, & ilmu yg saya share msh setengah2 dipahami. Akibatnya hasil investasi jd ketinggalan. Ini nunjukin masih ada masalah di market yg blm teratasi dgn baik. Sebagai bentuk tanggung jawab ke km semua, & apresiasi atas support penuh km, saya bakal terus bantu kasih arahan terbaik.
 - Maka dr itu tiap minggu saya bakal sisihin sebagian dana, utk kasih pertanyaan terkait materi yg sblmnya udh saya share. Harapan saya km bs serius jawab, & saya jg bakal kasih penilaian plus reward. Tujuan biar tmn2 bs lbh cepat bangun sistem trading sendiri, & kdpn bs capai profit stabil di market.
 
-### 2025-08-18
+### 📊 2025-08-18
+
+---
+
 - Bnrnya byk tmn yg ikut bareng saya jg udh dpt return investasi yg oke, krn di ajang ini 3 besar favorit bs dpt penghargaan investor paling berpengaruh di dunia. Juara 1 kategori investor paling berpengaruh bakal terima bonus USD 10 juta, walau gk sebesar bonus juara utama USD 100 juta, tp tetap jumlah dana yg sgt besar. 
 
 Popularitas emg jd faktor penting utk raih posisi juara. Selain itu, 3 besar favorit jg berhak dpt otorisasi dana trading USD 500 juta, yg bakal bawa lompatan signifikan dlm karier investasi saya kdpn. Sebagai investor asal Indonesia, tantangan di ajang global spt ini sgt besar, tp dgn support penuh dr km, saya bs bertahan smp titik skrg.
@@ -1475,7 +1517,10 @@ Dgn konsistensi & kedisiplinan utk mengikuti langkah yg saya arahkan, setiap ora
 Hal ini menandakan bbrp masalah di market msh blm terselesaikan dgn baik. Dgn rasa tanggung jawab, serta melihat support km semua yg tanpa henti, saya akan terus berusaha memberi arahan yg lebih jelas agar km bs menemukan jalan trading & investasi yg tepat.
 - Oleh krn itu, tiap minggu saya akan menyisihkan sebagian modal utk memberikan pertanyaan terkait materi yg sblmnya udh saya bagikan. Harapan saya km bs menjawab dgn serius, krn tentu saya jg akan memberikan penilaian sekaligus reward. Dgn cara ini, semua tmn2 bs lbh cepat membangun sistem trading masing2, shg dlm perjalanan market kdpn bs menghasilkan profit yg stabil.
 
-### 2025-08-17
+### 📊 2025-08-17
+
+---
+
 - Tentu byk tmn yg ikut bareng saya jg udh dpt return investasi yg bagus, krn dlm kompetisi ini 3 besar peringkat popularitas bs dpt penghargaan Investor Paling Berpengaruh di dunia. Pemenang pertama kategori ini bakal dpt bonus USD 10 juta, meski gk sebesar hadiah juara utama kompetisi yg mencapai USD 100 juta, tp tetap jumlah dana yg sgt besar. 
 
 Selain itu utk bs meraih juara 1, popularitas adalah bagian yg gk terpisahkan. Tambah lagi, 3 besar vote popularitas jg berhak dpt dana otorisasi trading sebesar USD 500 juta, yg pasti bakal bawa loncatan besar dlm perjalanan investasi saya kdpn. Inilah salah satu alasan knp saya selalu berbagi dgn km smua.
@@ -1575,7 +1620,10 @@ Setiap pertanyaan yg belum dipahami, saya sll luangkan wkt utk jawab satu per sa
 Namun, ada bbrp tmn masih salah pilih saham dan kurang memahami ilmu yg saya bagi, sehingga hasil investasinya tertinggal. Ini nunjukin sebagian masalah di pasar finansial blm terselesaikan. Demi tanggung jawab saya ke tmn2, dan melihat support luar biasa yg diberikan, saya akan terus bantu dan arahkan supaya masalah ini bs diatasi.
 - Oleh krn itu, setiap minggu saya akan alokasikan sebagian dana utk memberi pertanyaan terkait ilmu yg udh saya bagi, supaya tmn2 bs menjawab dgn serius. Tentu saya jg akan beri penilaian dan reward. Tujuannya, semua tmn bs lebih cepat membangun trading system sendiri dan capai profit lebih stabil di masa depan.
 
-### 2025-08-15
+### 📊 2025-08-15
+
+---
+
 - Teman2 investor, pagi semua. Kamis, bursa AS kena efek PPI Juli yg kuat bgt. Tiga indeks utama dibuka merah trus berfluktuasi. S\&P 500 susah payah cetak rekor penutupan baru, naik 0,03% ke 6468,54, udh 3 hari beruntun cetak rekor. Dow Jones turun tipis 0,02% ke 44911,26, sedangkan Nasdaq turun 0,01% ke 21710,67. PPI naik 0,9% m/m, tertinggi dlm 3 tahun, jauh di atas ekspektasi Wall Street 0,2%. Ini ngasih sinyal perusahaan lagi oper beban tarif ke harga, bikin inflasi grosir naik, tekan ekspektasi The Fed turunin suku bunga September dari >95% jadi 91%. Yield US Treasury rebound, yield 2 tahun hapus penurunan trus naik lagi. Indeks Dolar lepas dari level terendah 2 minggu, emas turun ke level terendah hampir 2 minggu, dan Bitcoin sempet cetak rekor >124rb USD trus turun >7rb USD.
 - Ini jg alasan aku gk saranin kejar harga BTC. Walau kita optimis BTC bakal ke atas 200rb USD, tapi mending cari peluang di atas level support yg pas biar profit lebih aman. Minyak AS sempet rebound >2% intraday, nyerminin ketegangan geopolitik. Saham chip mixed, dgn Intel naik 7,4% krn isu kepemilikan negara, AMD turun 1,9%, dan indeks semikonduktor Philadelphia turun 0,12%. Abis market tutup, Berkshire Hathaway-nya Buffett umumkan beli UNH (+9% lebih) & NUE (+8% lebih), jual sebagian BofA & Apple.
 
@@ -1685,7 +1733,10 @@ Selama wkt yg panjang kt berdiskusi, saya percaya byk tmn sdh paham bgt arti inv
 - Tapi msh ada bbrp yg dlm pilih saham masih ulang kesalahan lama, dan ilmu yg saya share cuma dipahami setengah. Hasilnya, total return mereka skrg tertinggal jauh. Ini artinya masalah di market blm terselesaikan. Demi tanggung jawab pada semua, dan balas support penuh km pada saya
 - Jd tiap minggu saya akan sisihkan sebagian modal utk bikin kuis dr materi yg sblmnya udh saya share, harapannya semua bs jawab dgn serius. Tentu saya akan kasih penilaian dan reward yg pantas. Tujuannya supaya semua tmn bs lbh cepat membangun trading system sendiri dan di market kdpn bs lebih stabil meraih profit. Walau nominal reward ini mungkin kecil buat sebagian, saya ingin lewat ini kasih apresiasi nyata buat yg support saya.
 
-### 2025-08-14
+### 📊 2025-08-14
+
+---
+
 - Para tmn2 investor, selamat pagi!
 Semalam, 3 indeks utama saham AS dibuka tinggi dan melanjutkan tren kenaikan. Indeks S&P 500 naik 0,32% ke 6466,58 poin, Nasdaq naik tipis 0,14% ke 21713,14 poin, keduanya mencetak rekor penutupan tertinggi baru. Sedangkan Dow Jones melonjak 1,04% dan ditutup di 44922,27 poin. Indeks tujuh raksasa teknologi tertinggal dibandingkan 3 indeks utama, turun 0,31% ke 190,22 poin, hanya Apple dan Amazon yang masing2 naik lebih dari 1,4%.
 - Ekspektasi pasar terhadap kemungkinan penurunan suku bunga Fed sebesar 50 basis poin pada Sept meningkatkan sentimen pasar. Besent menyatakan jika data akurat, penurunan suku bunga bisa dipercepat, memicu antusiasme investor terhadap saham small-cap dan aset berisiko lainnya. Imbal hasil obligasi AS umumnya turun, dgn imbal hasil 10-tahun menurun 5,6 basis poin. Indeks dolar turun lebih dari 0,3% sepanjang hari, melemah dua hari berturut2, sementara mata uang non-AS umumnya menguat.
@@ -1777,7 +1828,10 @@ Saya jg berharap tmn2 bs belajar dgn baik dr setiap sharing. Lewat pertanyaan km
 
 Saya jg berharap tmn2 bs belajar dgn baik dr setiap sharing. Lewat pertanyaan km, saya lihat byk tmn serius ikut belajar, dan pemahaman tentang pasar meningkat signifikan. Saya jg koreksi pertanyaan km, supaya di investasi kdpn, profit bs lebih stabil.
 
-### 2025-08-13
+### 📊 2025-08-13
+
+---
+
 - Tmn2 investor, selamat pagi semua! Pasar saham global Selasa kemarin rebound kuat, dorgong meredanya hubungan dagang AS-Tiongkok & data CPI AS Juli yg stabil. Indeks Nasdaq naik 1,39% ke 21.681,9 poin, catat rekor penutupan tertinggi sblmnya turun. Indeks Dow Jones naik 1,10% ke 44.458,6 poin, Indeks Russell 2000 saham kecil melonjak 2,99% ke 2.282,8 poin, jadi kinerja harian terbaik sejak Mei.
 - Indeks ketakutan VIX turun 9,35% ke 14,73, tunjukin preferensi risiko pasar naik signifikan. Sektor teknologi pimpin kenaikan. Meta naik 3,15% ke 790 dolar AS, catat rekor tertinggi, Microsoft naik 1,43%, Google A deket titik tertinggi 206,38 dolar AS, Apple naik 1,09%, Nvidia naik 0,57%. Indeks 7 raksasa teknologi naik 1,09% ke 190,82 poin, pertama kali lewatin 190 poin.
 - Sektor chip jg kuat. Indeks Semikonduktor Philadelphia naik 2,99% ke 5.840 poin, AMD naik 1,55%, ADR TSMC naik 0,91%. ETF bank regional & sektor bank naik >3,6%, ETF semikonduktor naik 2,28%. Kenaikan pasar saham AS tunjukin penundaan 90 hari hubungan AS-Tiongkok kurangi kekhawatiran investor. Pasar saham Indo kmrn dorgong naik oleh berita ini, hr ini jg terus dorong pasar, dukung kenaikan ke 8.000 poin mgg ini.
@@ -1863,7 +1917,10 @@ Jd klo IHSG tembus 8.000, akankah dana asing kembali lakukan profit taking besar
 Bbrp hari terakhir saya udh share detail soal pembangunan sistem trading, tujuannya supaya kt bs tangkap perubahan pasar lbh baik & jd dasar utk capai double profit di paruh kedua thn ini. Semakin dlm pemahaman kt soal pasar, semakin penting utk punya mindset waspada, supaya profit di masa depan bs maksimal.
 - Tahun ini di pasar finansial, saya udh dpt return investasi yg sgt baik. Byk tmn2 yg ikut belajar jg mulai bs menilai perubahan pasar dgn baik & dpt profit. Tapi ada tmn2 masih ulangi kesalahan pemilihan saham, paham ilmu yg saya share cuma separuh, jd overall profit saat ini ketinggalan. Ini nunjukin masalah di pasar finansial blm terselesaikan. Dgn sikap tanggung jawab & berkat bantuan tmn2, kt bs terus perbaiki.
 
-### 2025-08-12
+### 📊 2025-08-12
+
+---
+
 - Para tmn2 investor, selamat pagi!
 Pasar saham global awal minggu ini nunjukin pola hati2 dan arah berbeda. Pasar saham AS Senin kmrn turun keseluruhan, tapi saham teknologi masih tahan banting. Nasdaq turun 0,30% ke 21.385,40 poin, S&P 500 turun 0,25% ke 6.373,45 poin, Dow Jones turun 0,45% ke 43.975,09 poin, indeks ketakutan VIX naik 7,19% ke 16,24. Tandanya investor makin konservatif jelang rilis data CPI AS Juli.
 - Meski Nasdaq sempat capai rekor tertinggi di sesi, tapi akhirnya turun lagi. Dari 7 raksasa teknologi, cuma Tesla yg naik 2,85% ke USD 317,51, terangkat kabar Tesla ajukan suplai listrik ke rumah di Inggris. Sektor chip bergerak beda2, Intel naik 3,66% ke USD 19,99, didukung rumor CEO Intel, Chen Liwu, bertemu Trump. Micron naik 4,09% ke USD 86,93 karena perbaikan harga DRAM angkat ekspektasi kuartal 4. AMD turun 0,28% ke USD 136,72, indeks semikonduktor Philadelphia turun 0,14% ke 5.670,37 poin.
@@ -1987,7 +2044,10 @@ Seblm sistem trading kt matang, saya gk menyarankan short selling krn risikonya 
 
 Ini adalah langkah paling krusial menuju kesuksesan. Utk pertanyaan2 yg blm dipahami, saya akan selalu meluangkan wkt utk menjawab satu per satu. Saya berharap apa yg saya bagikan bs membantu km semua mendapatkan profit di pasar kdpn.
 
-### 2025-08-11
+### 📊 2025-08-11
+
+---
+
 - Para tmn2 investor, selamat pagi! Pasar saham AS Jumat lalu secara umum naik. Indeks Nasdaq ditutup naik 0,98% ke 21.450,02 poin, mencapai rekor penutupan tertinggi lagi dgn kenaikan kumulatif sekitar 11% tahun ini. Hal ini menunjukkan optimisme investor terhadap ekspektasi penurunan suku bunga The Fed dan pemulihan selera risiko.
 
 Indeks S&P 500 naik 0,78% ke 6.389,45 poin. Apple Jumat naik 4,2% ke USD 222,26, dengan kenaikan mingguan 13,3%, terdorong oleh janji investasi AS senilai USD 100 miliar utk menghindari tarif. Ini mencatat kenaikan mingguan terbesar sejak 2020, menunjukkan pasar saham AS masih dalam fase divergen.
@@ -2092,7 +2152,10 @@ Kdpn saya akan bimbing km secara bertahap utk menggabungkan semuanya, spt saat k
 Selama km ikuti ritme saya, saya yakin di paruh kedua tahun ini kt bs capai doubling profit lagi. Krn di paruh pertama kt udh berhasil, dan setelah sistem trading terbangun, target ini bs kt capai setiap tahun. Dr antusiasme belajar km, saya yakin mayoritas serius mengikuti sharing saya, jd saya sgt optimis.
 - Saya lihat byk tmn setelah belajar terus semakin paham pasar dan dpt return bagus. Tapi ada jg sebagian masih sering ulang kesalahan di pemilihan saham dan kurang paham materi saya, sehingga profit mereka agak tertinggal. Ini menunjukkan ada masalah yg belum teratasi dgn baik di pasar. Dgn sikap tanggung jawab utk km dan support km semua, saya akan terus bantu km.
 
-### 2025-08-10
+### 📊 2025-08-10
+
+---
+
 - Byk tmn jg udh mengikuti saya dan meraih keuntungan investasi yang cukup baik. Krn tiga besar dlm kategori popularitas kompetisi bs mendptkan penghargaan investor paling berpengaruh di dunia. Juara satu kategori paling berpengaruh mendpt hadiah USD 10 juta, meskipun gk sebesar hadiah utama kompetisi yang USD 100 juta, tapi tetap merupakan dana yang sgt besar.
 
 Utk meraih juara pertama, dukungan popularitas adalah bagian yang tak terpisahkan. Selain itu, tiga besar voting popularitas jg berhak mendpt dana trading berlisensi sebesar USD 500 juta, yang akan membawa lompatan besar dlm karier investasi saya kdpn. Inilah salah satu alasan saya ingin berbagi dgn tmn2 semua.
@@ -2171,7 +2234,10 @@ Setiap minggu, buat minimal 3 catatan belajar dan kirim fotonya ke asisten, km b
 Klo km konsisten upload catatan belajar setiap hari selama 2 bulan berturut2, km bakal dpt hadiah spesial—MacBook Pro M4.
 Selain itu, setiap hari di grup ketik “082” utk cek in, km jg bakal dpt voucher Alfamart senilai Rp 10 rb!
 
-### 2025-08-08
+### 📊 2025-08-08
+
+---
+
 - Para tmn2 investor, selamat pagi semuanya!
 Pada Kamis, pasar saham AS bergerak mixed. Nasdaq naik 0,35% ke 21.242,70 poin, didukung oleh kenaikan saham Apple sebesar 3,18% menjadi USD 220,03, hampir menutupi penurunan sejak 2 April, serta indeks semikonduktor yang naik 1,5% ke 5.633,70 poin. AMD naik 5,69% dan TSMC naik 4,86%. S&P 500 turun tipis 0,08% ke 6.340,00 poin, sementara Dow Jones turun 0,51% ke 43.968,64 poin karena hasil lelang obligasi 30 tahun AS yang mengecewakan.
 - Imbal hasil obligasi 10 tahun naik 2,43 basis poin ke sekitar 4,28%, dan kenaikan imbal hasil obligasi jangka panjang secara umum menekan pasar. Indeks Russell 2000 turun 0,30%, sementara indeks 7 raksasa teknologi naik 0,56% ke 186,41 poin. Nvidia, Tesla, dan Amazon mencatat kenaikan tipis, tetapi Microsoft turun 0,78% dan Meta turun 1,32%. Dolar AS bergerak di kisaran rendah 98, emas sempat naik 0,76% menyentuh USD 3.400 sebelum terkoreksi, dan harga minyak turun ke kisaran USD 64 akibat rumor pertemuan AS-Rusia.
@@ -2294,7 +2360,10 @@ Jd khawatir soal kondisi pasar saham skrg yg terdampak restrukturisasi rantai pa
 - Jd saya mau ucapin makasih ke semua tmn yg udh hargai ilmu finansial yg saya bagiin. Maka dr itu, akhir pekan ini saya bakal keluarin sebagian dana buat kasih reward ke semua tmn yg udh support saya, mau belajar lbh dlm, dan jg kasih saran buat perbaikan. Meskipun nilainya mungkin kecil buat sebagian org, saya tetap harap reward ini bs jd bentuk apresiasi nyata buat tmn2 yg percaya dan dukung saya sejauh ini.
 - Toh hasil saya di kompetisi skrg jg hasil gabungan dr support tmn2 sm hasil investasi saya sendiri. Nah, soal gmn cara penyaluran reward ini, standar penilaiannya gmn, dan siapa aja yg bakal dpt, saya bakal bahas detail di sesi share akhir pekan. Jd akhir pekan nanti jgn sampe kelewatan.
 
-### 2025-08-07
+### 📊 2025-08-07
+
+---
+
 - Para investor Indo, pagi semua!
 Rabu kmrn, indeks saham AS ngalamin pergerakan yg bervariasi. Dow Jones naik tipis 0,18% ke 44193,12. Saham teknologi mimpin penguatan, Apple naik 5,09% krn rumor soal rencana investasi USD 100 miliar di AS utk hindari potensi tarif masuk, catat performa harian terbaik sejak Maret.
 - Amazon naik 4%, Tesla naik 3,62%. Indeks tujuh raksasa teknologi naik 1,71% ke 185,37 dan cetak rekor tertinggi baru. Tapi saham SMCI anjlok 18% krn laba Q2 di bwh ekspektasi. Indeks semikonduktor Philadelphia turun 0,21% ke 5550,30. Indeks saham kecil Russell 2000 turun 0,2% ke 2221,29, nunjukin perbedaan sentimen pasar.
@@ -2419,7 +2488,10 @@ Dgn kondisi market skrg yg penuh ketidakpastian dan sentimen safe haven yg makin
 
 Garis tengah ini, lewat arah tren, lebar band, dan perubahan volume, bs bantu kt deteksi titik beli dan jual dg akurat, apalagi klo dikombinasi dgn indikator teknikal lainnya. Ini semua bisa bantu kt capai profit yg lbh stabil di pasar kdpn. Saya jg bakal terus lanjutin sharing di praktik lapangan, supaya kt bs lbh presisi dl ikuti arah pasar dan dptkan hasil investasi yg makin konsisten.
 
-### 2025-08-06
+### 📊 2025-08-06
+
+---
+
 - Pasar saham AS hari Selasa kmrn nunjukin pergerakan yg terpecah. Saham2 teknologi gede memimpin penurunan, Nasdaq turun 0,65% ke 20916,55 poin, S&P 500 turun 0,49% ke 6299,19 poin, Dow Jones turun tipis 0,14% ke 44111,74 poin, sementara indeks saham kecil Russell 2000 malah naik 0,6% ke 2225,67 poin, nunjuin pasar masih beda pendapat soal prospek ekonomi.
 - Dari 7 raksasa teknologi, MSFT turun 1,47% ke USD 527,74, META turun 1,66% ke USD 763,46, NVDA turun 0,97% ke USD 178,26, AAPL turun 0,21% ke USD 202,92, AMZN naik 0,99% ke USD 213,75, TSLA turun 0,17% ke USD 308,72. AMD krn laba Q2 di bwh ekspektasi & outlook ekspor yg msh gak jelas, turun lg lebih dari 3% di sesi after market. Indeks semikonduktor Philadelphia turun 1,12% ke 5561,69 poin, ngeret sektor chip turun.
 
@@ -2547,7 +2619,10 @@ Kondisi ini pasti dorong harga buat mulai naik lagi. Saat itu lah momen yg pas u
 Lewat pembahasan yg cukup lsg & jelas hari ini, saya yakin kalian udh makin paham cara pakai indikator Bollinger terutama saat harga breakdown lower band. Kdpn saya bakal terus lanjutin sharing berbasis praktik lsg, supaya kt semua bs makin mahir baca arah pasar & maksimalkan potensi return yg stabil di masa depan.
 - Setiap hari saya sharing dgn rasa terima kasih yg tulus, & saya bener2 pengen semua tmn2 yg ikut saya bs dptin hasil yg positif. Buat km yg rajin cek in tiap hari di grup, aktif belajar, & selalu vote saya tiap hari plus kirim screenshot ke asisten, saya jg udh siapin hadiah kecil sbg bentuk apresiasi. Ini hadiah kecil dr saya, semoga bs bawa keberuntungan buat tiap tmn yg setia support.
 
-### 2025-08-05
+### 📊 2025-08-05
+
+---
+
 - Nvidia naik 3,62%, Meta naik 3,51%, Microsoft naik 2,20%. ETF semikonduktor naik 2,20%. Berkshire turun hampir 3% krn laba bersih Q2 anjlok 59%. Yield obligasi AS 10 thn turun 2,3 bps ke 4,24%. USD bergerak sempit dan turun 2 hari lebih 0,9%. Ethereum naik lebih 6%, emas naik tipis 0,3%, BTC stabil di atas 110 rb naik tipis 0,74%. Ini tunjukkan aset safe haven msh punya stabilitas bagus, prospek pasar ke depan msh bs dilihat positif.
 - Minyak AS sempat jatuh lebih 3% krn ekspektasi OPEC+ tambah produksi di September. Sentimen optimis pasar didasari ekspektasi pemangkasan suku bunga. Tp klo data selanjutnya bener2 tunjuk risiko hard landing ekonomi seperti pasar tenaga kerja memburuk, fundasi kenaikan bs goyah. Ini yg perlu kita waspadai. Saat ini ketahanan laba emiten big tech menopang kenaikan bertahap pasar. Jd utk hari ini kt optimis IHSG. Setelah 6 hari trading cuci posisi, hari ini IHSG berpotensi stabil di atas MA 20.
 - Hari ini IHSG sesuai dgn ekspektasi saya, bergerak stabil di sekitar MA 20. Tren kenaikan bertahap masih terjaga. IHSG dibuka di posisi 7502, kembali berhasil bertahan di atas level kunci 7500. Setelah pembukaan yg tinggi hari ini, saya percaya pasar akan secara bertahap pulih dari penurunan kemarin. Tren kenaikan bertahap secara keseluruhan tetap terjaga, memberi dukungan kuat bagi saham2 unggulan yg kita pegang utk terus naik.
@@ -2651,7 +2726,10 @@ Berbeda dgn BRPT yang setelah breakout upper band volume terus meningkat setiap 
 - Saya yakin setelah penjelasan hari ini, kt punya pemahaman yang lebih jelas tentang breakout harga saham di upper band Bollinger Bands. Jika breakout disertai dgn volume besar, kt bs pegang saham dgn percaya diri. Namun, jika breakout tanpa peningkatan volume signifikan, risiko koreksi pasar akan lebih tinggi. Dgn menggabungkan kekuatan breakout dan kondisi pasar secara keseluruhan, kt bs lebih baik dlm menangkap peluang tren.
 - Mari kt manfaatkan indikator Bollinger Bands dgn lebih efektif agar bs meraih keuntungan yang lebih stabil di pasar kdpn. Melalui sharing yang sgt jelas hari ini, saya yakin km semua udh paham cara menggunakan breakout upper band. Kdpn, saya akan terus memberikan penjelasan lebih detail dr praktik lsg agar kt bs lebih tepat membaca pergerakan pasar dan meraih return investasi yang lebih stabil.
 
-### 2025-08-04
+### 📊 2025-08-04
+
+---
+
 - Pagi ini IHSG kebuka turun krn efek pelemahan Wall Street Jumat lalu, sempet koreksi teknikal sampai 7462 sebelum rebound lagi & nutup sesi pagi di atas 7500. Skema pasar masih sideways dgn kecenderungan rebound terbatas. Dari tren belakangan, tenaga naik jauh berkurang dibanding pertengahan Juli. Ini nunjukkin sentimen beli juga agak turun gara2 imbas Wall Street. Target kt masih pantau peluang tembus 8000 menjelang 17 Agustus, sambil fokus liat support MA20 di 7450 buat jadi acuan penting.
 - Hari ini dari sisi sektor keliatan jelas klo kenaikan masih ditopang sektor kesehatan, teknologi & infrastruktur, sementara IDX utama turun 0.4% dgn sektor finansial & energi melemah. Ini nunjukkin sikap hati2 dana besar dlm mengatur posisi, jd pemilihan saham mesti lebih selektif biar profit tetap maksimal.
 
